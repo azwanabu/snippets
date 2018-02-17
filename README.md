@@ -1,4 +1,5 @@
 # snippets
 some collection of short codes
 
-- [datatables](https://github.com/azwanabu/snippets/blob/master/datatables.php)
+- [datatables with cdn](https://github.com/azwanabu/snippets/blob/master/datatables.php)
+- [bootstrap with cdn](https://github.com/azwanabu/snippets/blob/master/bootstrap.php)
